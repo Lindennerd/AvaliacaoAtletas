@@ -1,0 +1,84 @@
+{
+   "ATLETA":[
+      {
+         "atleta_id":1,
+         "nome_popular":"DANIEL",
+         "nome":"Daniel de Sousa Brito",
+         "posicao":"Goleiro",
+         "sigla":"GOL",
+         "Camisa":1
+      },
+      {
+         "atleta_id":2,
+         "nome_popular":"Anthoni",
+         "nome":"Anthoni Spier Souza",
+         "posicao":"Goleiro",
+         "sigla":"GOL",
+         "Camisa":24
+      },
+      {
+         "atleta_id":3,
+         "nome_popular":"BRUNO MÉNDEZ",
+         "nome":"Bruno Méndez Cittadini",
+         "posicao":"Zagueiro",
+         "sigla":"ZAG",
+         "Camisa":22
+      },
+      {
+         "atleta_id":4,
+         "nome_popular":"ZÉ GABRIEL",
+         "nome":"José Gabriel dos Santos Silva",
+         "posicao":"Zagueiro",
+         "sigla":"ZAG",
+         "Camisa":35
+      },
+      {
+         "atleta_id":5,
+         "nome_popular":"HEITOR",
+         "nome":"Heitor Rodrigues da Fonseca",
+         "posicao":"Lateral",
+         "sigla":"LAT",
+         "Camisa":2
+      },
+      {
+         "atleta_id":6,
+         "nome_popular":"MAZETTI",
+         "nome":"Lucas Henrique Mazetti",
+         "posicao":"Lateral",
+         "sigla":"LAT",
+         "Camisa":38
+      },
+      {
+         "atleta_id":7,
+         "nome_popular":"BOSCHILIA",
+         "nome":"Gabriel Boschilia",
+         "posicao":"Meio-campista",
+         "sigla":"MC",
+         "Camisa":21
+      },
+      {
+         "atleta_id":8,
+         "nome_popular":"D’ALESSANDRO",
+         "nome":"Andrés Nicolás D'Alessandro",
+         "posicao":"Meio-campista",
+         "sigla":"MC",
+         "Camisa":10
+      },
+      {
+         "atleta_id":9,
+         "nome_popular":"TAISON",
+         "nome":"Taison Barcellos Freda",
+         "posicao":"Atacante",
+         "sigla":"ATA",
+         "Camisa":7
+      },
+      {
+         "atleta_id":10,
+         "nome_popular":"PALACIOS",
+         "nome":"Carlos Alonso Enrique Palacios Núñez",
+         "posicao":"Atacante",
+         "sigla":"ATA",
+         "Camisa":16
+      }
+   ]
+}
